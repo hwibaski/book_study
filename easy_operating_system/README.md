@@ -6,7 +6,7 @@
 
 매주 화요일 진행
 
-1. 2개의 chapter씩 요약 및 발표
+1. 2개의 chapter씩 요약 및 상다방에게 발표 및 설명
 2. 참여자 : [김휘민](https://github.com/hwibaski), [정수비](https://github.com/JeongSubi)
 
 ## 목차
