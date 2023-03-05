@@ -8,3 +8,7 @@
 
 1. 2개의 chapter씩 요약 및 발표
 2. 참여자 : [김휘민](https://github.com/hwibaski), [정수비](https://github.com/JeongSubi)
+
+## 목차
+
+1. chapter_01 운영체제의 개요
