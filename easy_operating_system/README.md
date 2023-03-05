@@ -11,4 +11,4 @@
 
 ## 목차
 
-1. chapter_01 운영체제의 개요
+1. [chapter_01 운영체제의 개요](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_1/chapter_1.md)
