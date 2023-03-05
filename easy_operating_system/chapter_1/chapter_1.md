@@ -10,7 +10,8 @@
 - 운영체제의 핵심 기능을 모아놓은 것
 - 커널은 모든 컴퓨터 자원을 관리하기 때문에 사용자나 응용 프로그램은 커널을 통해서만 컴퓨터 자원에 접근할 수 있다. 어떤 사용자나 응용 프로그램도 컴퓨터 자원에 직접 접근할 수 없다.
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/85930725/222960694-e0e90f18-d932-4d2b-9f33-f9b049eb7adb.png)
+
 
 ## 운영체제의 역할
 - 자원 관리
@@ -32,7 +33,8 @@
   - 무조건적인 효율성을 위해서 편리성을 저하시키면 안된다. 
 
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/85930725/222960702-a0c8389e-b426-4931-83be-2e51a8b2e64f.png)
+
 
 ## 운영체제의 발전 (컴퓨터 변천사)
 
@@ -61,14 +63,17 @@
    - 언제 어디서나 컴퓨팅 파워와 소프트웨어에 접근할 수 있는 유연한 컴퓨팅 환경
 10. 사물인터넷
      
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![image](https://user-images.githubusercontent.com/85930725/222960727-7140a789-8b46-42d0-8506-6b0b9c402d35.png)
+
+![image](https://user-images.githubusercontent.com/85930725/222960736-bcdfa697-2d35-433c-832e-9fbbe702e638.png)
+
 
 ## 운영체제의 구성
 - 커널 - 프로세스 관리, 메모리 관리, 저장장치 관리와 같은 운영체제의 핵심 기능을 구현한 프로그램
 - 인터페이스 - 사용자와 응용 프로그램에 인접하여 커널에 명령을 전달하고 실행 결과를 사용자와 응용 프로그램에 돌려준다
 
-![img_5.png](img_5.png)
+![image](https://user-images.githubusercontent.com/85930725/222960748-7c6e1a92-936a-4906-a943-d7eaecb09309.png)
+
 
 ### 시스템 호출
 - 시스템 호출은 커널이 자신을 보호하기 위해 만든 인터페이스다.
@@ -109,6 +114,6 @@
    3. 각 모듈이 독립적이여서 하나의 모듈이 실패하더라도 전체 운영체제가 멈추지 않는다.
    4. 애플 OS X, IOS
 
-![img_6.png](img_6.png)
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
+![image](https://user-images.githubusercontent.com/85930725/222960757-74912fdb-5ab3-4238-8959-06097af99961.png)
+![image](https://user-images.githubusercontent.com/85930725/222960764-5044f568-f2c6-4a05-9af9-7419e464ea7d.png)
+![image](https://user-images.githubusercontent.com/85930725/222960770-89a6c0fa-aaae-4b05-b938-923f61ed822f.png)
