@@ -15,7 +15,7 @@
 2. [chapter_02 컴퓨터의 구조와 성능 향상](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_2/chapter_2.md)
 3. [chapter_03 프로세스와 스레드](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_2/chapter_3.md)
 4. [chapter_04 CPU 스케쥴링](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_2/chapter_4.md)
-5. [chapter_05_프로세스 동기화](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_5/chapter_5.md)
+5. [chapter_05 프로세스 동기화](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_5/chapter_5.md)
 
 ## 계획
 
