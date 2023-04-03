@@ -16,6 +16,9 @@
 3. [chapter_03 프로세스와 스레드](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_2/chapter_3.md)
 4. [chapter_04 CPU 스케쥴링](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_2/chapter_4.md)
 5. [chapter_05 프로세스 동기화](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_5/chapter_5.md)
+6. [chpater_06 데드락](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_6/chapter_6.md)
+7. [chapter_07 메모리 관리](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_7/chapter_7.md)
+
 
 ## 계획
 
@@ -26,7 +29,7 @@
 | 3    | 수비 | ✅        | ✅           |
 | 4    | 수비 | ✅        | ✅           |
 | 5    | 휘민 | ✅        | ✅           |
-| 6    | 수비 |           |              |
+| 6    | 수비 | ✅        | ✅           |
 | 7    | 휘민 |           |              |
 | 8    | 수비 |           |              |
 | 9    | 휘민 |           |              |
