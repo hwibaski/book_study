@@ -151,7 +151,9 @@
 9. process E의 메모리 반납
 10. process D의 메모리 반납
 ```
-![img.png](img.png)
+
+![image](https://user-images.githubusercontent.com/85930725/229536157-62aa13d3-ddd8-4cde-bdc1-3ca21cea1cf6.png)
+
 버디 시스템 이미지 및 내용 출처 : https://github.com/qkraudghgh/coding-interview/blob/master/OS/images/budy-example.jpeg
 
 - (a) 비어있는 1MB의 메모리
