@@ -18,7 +18,7 @@
 5. [chapter_05 프로세스 동기화](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_5/chapter_5.md)
 6. [chpater_06 데드락](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_6/chapter_6.md)
 7. [chapter_07 메모리 관리](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_7/chapter_7.md)
-
+8. [chapter_08 가상 메모리 기초](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_8/chapter_8.md)
 
 ## 계획
 
@@ -30,8 +30,8 @@
 | 4    | 수비 | ✅        | ✅           |
 | 5    | 휘민 | ✅        | ✅           |
 | 6    | 수비 | ✅        | ✅           |
-| 7    | 휘민 |           |              |
-| 8    | 수비 |           |              |
+| 7    | 휘민 | ✅        | ✅           |
+| 8    | 수비 | ✅        | ✅           |
 | 9    | 휘민 |           |              |
 | 10   | 수비 |           |              |
 | 11   | 휘민 |           |              |
