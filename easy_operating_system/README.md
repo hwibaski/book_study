@@ -19,6 +19,7 @@
 6. [chpater_06 데드락](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_6/chapter_6.md)
 7. [chapter_07 메모리 관리](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_7/chapter_7.md)
 8. [chapter_08 가상 메모리 기초](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_8/chapter_8.md)
+9. [chapter_09 가상 메모리 관리](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_9/chapter_9.md)
 
 ## 계획
 
