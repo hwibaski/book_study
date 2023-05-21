@@ -135,6 +135,7 @@
 - 블록의 내용을 지우지 않고 빈 공간 리스트에 삽입하는 것은 해당 블록에 새로운 데이터를 덮어쓰지 않는 한 원래 데이터를 복구할 수 있는 여지를 남긴다.
 
 ## 04. 유닉스 파일의 특징
-![img.png](img.png)
+![image](https://github.com/hwibaski/book_study/assets/85930725/af4c5dde-c6d6-4a82-83ca-7c01d03696d9)
+
 - 출처(https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=robotluv1226&logNo=220618363082)
 - read는 4, write 는 2, execute는 1이며 chmod 명령을 이용하여 살리고 싶은 숫자를 모두 더하면 된다.
