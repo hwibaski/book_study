@@ -20,6 +20,8 @@
 7. [chapter_07 메모리 관리](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_7/chapter_7.md)
 8. [chapter_08 가상 메모리 기초](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_8/chapter_8.md)
 9. [chapter_09 가상 메모리 관리](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_9/chapter_9.md)
+10. [chatper 10 입출력 시스템과 저장장치](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_10/chapter_10.md)
+11. [chapter_11 파일 시스템](https://github.com/hwibaski/book_study/blob/main/easy_operating_system/chapter_11/chapter_11.md)
 
 ## 계획
 
@@ -34,6 +36,6 @@
 | 7    | 휘민 | ✅        | ✅           |
 | 8    | 수비 | ✅        | ✅           |
 | 9    | 휘민 | ✅        | ✅           |
-| 10   | 수비 |          |             |
-| 11   | 휘민 |          |             |
+| 10   | 수비 | ✅         | ✅          |
+| 11   | 휘민 | ✅         | ✅          |
 | 12   | 수비 |          |             |
