@@ -4,5 +4,5 @@
 
 ## 목차
 
-1. [소개]()
-2. [설치와 설정]()
+1. [소개](https://github.com/hwibaski/book_study/tree/main/real_my_sql/_01)
+2. [설치와 설정](https://github.com/hwibaski/book_study/tree/main/real_my_sql/_02)
