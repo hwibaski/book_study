@@ -6,3 +6,4 @@
 
 1. [소개](https://github.com/hwibaski/book_study/tree/main/real_my_sql/_01)
 2. [설치와 설정](https://github.com/hwibaski/book_study/tree/main/real_my_sql/_02)
+3. [사용자 및 권한](https://github.com/hwibaski/book_study/tree/main/real_my_sql/_03)
